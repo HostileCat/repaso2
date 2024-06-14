@@ -194,7 +194,7 @@ ul.list>li.item a:visited{
   padding: var(--padding);
   display: inline-grid;
   justify-content: end;
-  grid-template-columns: auto 60px;
+  grid-template-columns: auto 35px;
   grid-template-rows: auto;
   gap: 4px;
 }
