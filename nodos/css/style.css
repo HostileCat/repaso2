@@ -44,6 +44,15 @@ section{
 
 }
 
+.bg-white{
+  background: var(--white);
+  
+}
+
+.color{
+  color: var(--mine-shaft);
+}
+
 a{
   color: var(--husk);
   text-decoration: none;
@@ -96,7 +105,6 @@ li.item:hover a{
   border: solid 1px var(--husk);
   border-radius: var(--border-radius);
   margin: 0 auto;
-
 }
 
 .card__header{
